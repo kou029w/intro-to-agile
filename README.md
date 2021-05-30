@@ -116,7 +116,7 @@ _footer: 引用元: Kent Beck et al. (2001) [アジャイルソフトウェア�
 
 10人以下のチームの自己管理のための代表的なフレームワーク
 
-![bg right:40% fit スクラムの図](https://user-images.githubusercontent.com/1730234/36246073-5103a868-1271-11e8-85bf-630f541ec9d7.png)
+![bg right:40% fit スクラムの図](https://i.gyazo.com/80bf708078dfa7baeacdf8d981a79a81.png)
 
 
 [スクラムガイド](https://scrummaster.jp/scrum-guide)によって定義されるスクラムの3本柱と呼ばれる透明性・検査・適応という価値観はアジャイル開発において重要な概念
