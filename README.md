@@ -142,7 +142,7 @@ _footer: 引用元: Kent Beck et al. (2001) [アジャイルソフトウェア�
 _footer: 画像の出典: David J. Anderson, 2011 https://www.slideshare.net/agilemanager/key-note-lean-kanban-central-europe-2011-predictability-measurement-in-kanban
 -->
 
-提供するまでの期間はチームのベストエフォート
+提供までの期間はチームのベストエフォート
 
 対応可能な分量ですばやくリリースを続ける
 
