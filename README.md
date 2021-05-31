@@ -22,10 +22,10 @@ WebDINO Japan エンジニア
 
 ## ソフトウェア開発は不確実
 
-スケジュールは予測困難
+コストは予測困難
 
-![不確実性コーン](https://i.gyazo.com/200d8e3772754e6b9f0a17927229cc2b.png)
-<!-- _footer: 図の出典: 不確実性コーン - Mike Cohn, 2009 「アジャイルな見積りと計画づくり」 -->
+![bg right:60% fit Barry W. Boehm (1984)](https://i.gyazo.com/81c2b1a3fdd1eb46ee4f612bd6bef742.png)
+<!-- _footer: 図の出典: Barry W. Boehm (1984) "Software Engineering Economics" doi.org/10.1109/TSE.1984.5010193 Fig.3 -->
 
 ---
 
