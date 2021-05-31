@@ -86,6 +86,8 @@ _footer: 引用元: Kent Beck et al. (2001) [アジャイルソフトウェア�
 - すばやく変化に対応し続けるアジャイルの考え方は技術の進展とともに浸透
 - 一方でリリースして終了というウォーターフォール型のプロジェクトは衰退
 
+<!-- _footer: Netflix (2018)の事例: [数時間でのカナリアリリース](https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249#9868:~:text=Deployments%20are%20routine%20and%20frequent%2C%20canaries%20take%20hours%20instead%20of%20days) -->
+
 ---
 
 ## ここまでの話
