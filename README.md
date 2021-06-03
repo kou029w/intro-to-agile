@@ -167,7 +167,7 @@ _footer: 画像の出典: David J. Anderson, 2011 https://www.slideshare.net/agi
 
 ## 話していないこと
 
-- トヨタ式生産手法
+- トヨタ生産方式
 - リーン
 - 大規模アジャイル
 - XP
