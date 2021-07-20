@@ -194,3 +194,9 @@ _footer: 画像の出典: David J. Anderson, 2011 https://www.slideshare.net/agi
 - 2005年 Steven G. Blank「The Four Steps to the Epiphany」
 - 2010年 David J. Anderson「Kanban」
 - 2011年 Eric Ries「Lean Startup」
+
+---
+
+## フィードバック
+
+[このスライドを編集する](https://github.com/kou029w/intro-to-agile/edit/main/README.md) / [問題を報告する](https://github.com/kou029w/intro-to-agile/issues/new)
