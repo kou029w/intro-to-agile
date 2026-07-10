@@ -10,9 +10,9 @@ jobs:
     environment: github-pages
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v7
       - run: npx @marp-team/marp-cli README.md -o pages/index.html
-      - uses: actions/upload-pages-artifact@v1
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: pages
-      - uses: actions/deploy-pages@v1
+      - uses: actions/deploy-pages@v5
